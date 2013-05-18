@@ -1,1 +1,13 @@
 target/
+.classpath
+.project
+.settings/
+.metadata
+/target
+*/target/*
+*/bin/*
+*.log*
+.DS_Store
+*rebel.xml*
+.springBeans
+/target
