@@ -2,6 +2,8 @@ package com.jiacon.poc.neo4j.helper;
 
 import org.neo4j.graphdb.GraphDatabaseService;
 
+//Interface
+
 public interface DBCreationService {
 
 	public abstract GraphDatabaseService getGraphDatabase();
