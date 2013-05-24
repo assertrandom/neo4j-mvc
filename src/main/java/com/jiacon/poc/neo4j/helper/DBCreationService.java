@@ -8,4 +8,6 @@ public interface DBCreationService {
 
 	void instantiateDatabase(String rootPath);
 
+	public void populateData(String users, String music, String sports);
+
 }

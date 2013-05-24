@@ -35,7 +35,7 @@ public class DBCreationServiceImpl implements DBCreationService {
 		return db;
 	}
 
-	private void populateData(String users, String ) {
+	public void populateData(String users, String music, String sports) {
 
 	}
 
